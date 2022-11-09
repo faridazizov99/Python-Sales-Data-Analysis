@@ -1,0 +1,7 @@
+1. Drop the empty values.
+2. Introduce a new ‘Sales’ column calculating the ordered quantity and the price
+3. Separate the products by the product type
+4. Find out the top selling product type
+5. Find out the top selling product within each product type
+6. What amount are the clients most willing to spend? Separate by 0-50, 50-100, 100-500, 500-900, 900-1500, 1500+.
+7. Top selling month
